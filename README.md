@@ -2,6 +2,8 @@
 
 This shell script captures the CPU,Memory utilization and Number of File descriptors of the particular process using "top" and "lsof" command. The captured metrics are written into a CSV file. The script can be added to a cron entry to capture the metrics over the period of time. 
 
+The CSV file can be imported into Excel or can be opened with Excel for analyzing the CPU and Memory utilization by plotting the graph. 
+
 Command to execute script. 
 
 sh <Script_Name> <Process_to_Monitor>
