@@ -4,7 +4,7 @@ This shell script captures the CPU,Memory utilization and Number of File descrip
 
 Command to execute script. 
 
-sh <Script Name> <Process to Monitor>
+sh <Script_Name> <Process_to_Monitor>
 
 Example CPU and Memory utilization to be captured for the Java process. 
 ========================================================================
